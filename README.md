@@ -1,4 +1,3 @@
-. 
 ## Any game can be spoofed!
 
 ## Work on Win10-11 x64
